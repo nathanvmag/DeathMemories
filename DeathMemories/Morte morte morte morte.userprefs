@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Script_YouFool.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\Memoria.cs" Line="99" Column="4" />
+      <File FileName="Assets\Resources\Scripts\Script_YouFool.cs" Line="65" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
